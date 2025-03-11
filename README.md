@@ -1,5 +1,7 @@
 # Laptop Prices Regression Model
 
+By Mahdi M. Haroun 
+
 ### Overview of the Project 🚀🌍🌐
 
 Advanced Regression Module to Predict Laptop Prices Based on Features Such As **CPU**, **GPU**, **RAM**, and More. The project utilizes advanced regression models, machine learning, exploratory data analysis (EDA), and train-test splitting methods to ensure the best score using the R^2 function.
